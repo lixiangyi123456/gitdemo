@@ -5,11 +5,9 @@ main()
 metho()
 {
   print "my name is lixiangyi"
-<<<<<<< HEAD
+ 
 }
 
 metho2()
 {}
-=======
-}
->>>>>>> 565b1d70d4cd64c560def83ab44afd7d14c5245f
+ 
